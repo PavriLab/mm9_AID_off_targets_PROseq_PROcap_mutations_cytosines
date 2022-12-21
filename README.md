@@ -14,6 +14,12 @@ Steps to produce the PROcap/PROseq/mutations plots for the mm9 AID off-target ge
   * ggplot2
   * readODS
   * vioplot
+  * ggpubr
+  * stringr
+  * openxlsx
+  * gridExtra
+  * ggforce
+  * OneR
 
 * Awk (v4.1.4)
 
