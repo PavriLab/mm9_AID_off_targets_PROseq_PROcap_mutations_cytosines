@@ -1,0 +1,66 @@
+19c19
+< Blimp1
+---
+> Prdm1
+22c22
+< Brg1
+---
+> Smarca4
+106c106
+< Mll1
+---
+> Kmt2a
+196c196
+< Mycl1
+---
+> Mycl
+208c208
+< 1810030J14Rik
+---
+> Mptx1
+212c212
+< 2210415F13Rik
+---
+> Lypd8
+372c372
+< Ccdc56
+---
+> Coa3
+528,529c528,529
+< Dub1
+< Dub1a
+---
+> Usp17la
+> Usp17lb
+800c800
+< Itgb1bp3
+---
+> Nmrk2
+827c827
+< Lass2
+---
+> CerS2
+883c883
+< Mia1
+---
+> Mia
+887c887
+< Mll3
+---
+> Kmt2c
+906c906
+< Mtap1a
+---
+> Map1a
+1042c1042
+< Prkcc
+---
+> Prkcg
+1287c1287
+< Tmlhe
+---
+> Bbox2
+1332c1332
+< Ulbp1
+---
+> A430108B07Rik
