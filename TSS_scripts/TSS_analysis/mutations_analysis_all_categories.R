@@ -42,7 +42,7 @@ use_motifs<-0
 # non_mutated<-read.csv(file.choose(), header=FALSE, sep='\t') #choose the file with the C/Gs in the tested genes
 non_mutated<-read.csv("0.External_input_data/c_sites_GCB_tested_tpm20.txt", header = F, sep = "\t")
 # distance_cutoff<-as.integer(readline(prompt = 'Enter the maximum distance upstream and downstream from the C/G site: '))
-distance_cutoff<-10
+distance_cutoff<-3
 
 #importing the sheets
 # mutations<-read.ods(file.choose()) #the mutations data are found in our case in the file PerBase_CG_targets_dKO_PavriLab.ods
